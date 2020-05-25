@@ -4,3 +4,5 @@ This is a new feature in the middle of the current code
 Some poems rhyme
 This one doesn't
 But it might someday...
+Added a new line
+Isn't it fine
