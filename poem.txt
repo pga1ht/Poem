@@ -1,5 +1,6 @@
 Roses are red
 Violets are blue
+This is a new feature in the middle of the current code
 Some poems rhyme
 This one doesn't
-But it migth someday...
+But it might someday...
